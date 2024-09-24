@@ -1,0 +1,6 @@
+@DestekYonetimSistemi_HostAddress = http://localhost:5227
+
+GET {{DestekYonetimSistemi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
